@@ -1,0 +1,11 @@
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.header {
+    background: #1d1e20;
+    display: flex;
+    flex-wrap: wrap;
+}
